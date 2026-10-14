@@ -1,0 +1,113 @@
+﻿@page "/"
+@using ExpenseTracker.Models
+@using ExpenseTracker.Services
+@inject ExpenseService ExpServ
+@inject NavigationManager NavMan
+@rendermode InteractiveServer
+
+<PageTitle>Expense Tracker</PageTitle>
+
+<h1>Expense Tracker</h1>
+
+<p>Total Expenses: @expenses.Count</p>
+<p>Total Amount: @expenses.Sum(e => e.Amount).ToString("N2")</p>
+
+<label>Category:</label>
+<select @bind="category">
+    <option value="">All Categories</option>
+    @foreach (var c in ExpServ.GetCategories())
+    {
+        <option value="@c">@c</option>
+    }
+</select>
+
+<label>Sort:</label>
+<select @bind="sort">
+    <option value="date-desc">Newest First</option>
+    <option value="date-asc">Oldest First</option>
+    <option value="amount-asc">Lowest Amount</option>
+    <option value="amount-desc">Highest Amount</option>
+</select>
+
+<label>Find by ID:</label>
+<input type="number" @bind="id" />
+<button @onclick="Find">Find</button>
+
+<p>@message</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Amount</th>
+            <th>Date</th>
+            <th>Category</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in expenses)
+        {
+            <tr @onclick="() => selected = e">
+                <td>@e.Id</td>
+                <td>@e.Title</td>
+                <td>@e.Amount.ToString("N2")</td>
+                <td>@e.Date.ToString("dd MMM yyyy")</td>
+                <td>@e.Category</td>
+                <td>@e.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<button @onclick="AddButton"> Add
+</button>
+<button disabled="@(selected == null)" @onclick="UpdateButton"> Update
+</button>
+<button disabled="@(selected == null)" @onclick="Delete"> Delete
+</button>
+
+@code {
+    private string category = "";
+    private string sort = "date-desc";
+    private int? id;
+    private Expense? selected;
+    private string message = "";
+
+    private List<Expense> expenses =>
+        ExpServ.GetFilteredExpenses(category, sort);
+
+    private void Find()
+    {
+        selected = id.HasValue
+            ? ExpServ.GetExpenseById(id.Value)
+            : null;
+
+        message = selected == null
+            ? "Expense not found."
+            : $"Found: {selected.Title}";
+
+        if (selected != null)
+            category = "";
+    }
+
+    private void Delete()
+    {
+        if (selected == null) return;
+
+        ExpServ.DeleteExpense(selected.Id);
+        message = "Expense deleted.";
+        selected = null;
+    }
+
+    private void AddButton()
+    {
+        NavMan.NavigateTo("/add");
+    }
+
+    private void UpdateButton()
+    {
+        NavMan.NavigateTo($"/update/{selected!.Id}");
+    }
+}

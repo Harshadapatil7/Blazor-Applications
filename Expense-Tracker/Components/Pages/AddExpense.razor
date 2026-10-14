@@ -1,0 +1,50 @@
+﻿@page "/add"
+@using ExpenseTracker.Models
+@using ExpenseTracker.Services
+@rendermode InteractiveServer
+@inject ExpenseService ExpServ
+@inject NavigationManager NavMan
+
+<h3>Add Expense</h3>
+<EditForm Model="@exp" OnValidSubmit="HandleSubmit" FormName="AddForm">
+    <label>Title </label>
+    <InputText @bind-Value="exp.Title"></InputText>
+    <br />
+    
+    <label>Amount </label>
+    <InputNumber @bind-Value="exp.Amount"></InputNumber>
+    <br />
+    
+    <label>Date </label>
+    <InputDate @bind-Value="exp.Date"></InputDate>
+    <br />
+    
+    <label>Category</label>
+    <InputSelect @bind-Value="exp.Category">
+        <option value="">--Select Category--</option>
+        <option value="Food">Food</option>
+        <option value="Travel">Travel</option>
+        <option value="Shopping">Shopping</option>
+        <option value="Bills">Bills</option>
+        <option value="Other">Other</option>
+    </InputSelect>
+    <br />
+
+    <label>Description</label>
+    <InputTextArea @bind-Value="exp.Description"></InputTextArea>
+    <br />
+
+    <button type="submit">Submit</button>
+    <br />
+
+</EditForm>
+
+@code {
+    Expense exp = new Expense();
+
+    private void HandleSubmit()
+    {
+        ExpServ.AddExpense(exp);
+        NavMan.NavigateTo("/");
+    }
+}

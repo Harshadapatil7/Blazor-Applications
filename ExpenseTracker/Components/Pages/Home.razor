@@ -1,0 +1,70 @@
+﻿@page "/"
+@using ExpenseTracker.Models
+@using ExpenseTracker.Services
+@inject ExpenseService ExpServ
+@inject NavigationManager NavMan
+@rendermode InteractiveServer
+
+<PageTitle>Dashboard</PageTitle>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Amount</th>
+            <th>Date</th>
+            <th>Category</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Expense exp in ExpServ.GetExpenses())
+        {
+            <tr class="@(selectedExp?.Id == exp.Id ? "selected-row" : "")" @onclick="() => SelectExpense(exp)">
+                <td>@exp.Id</td>
+                <td>@exp.Title</td>
+                <td>@exp.Amount</td>
+                <td>@exp.Date</td>
+                <td>@exp.Category</td>
+                <td>@exp.Description</td>
+            </tr>
+        }
+    </tbody>
+
+    
+</table>
+
+<button @onclick="addExpense">Add Expense</button>
+<button @onclick="updateExpense">Update Expense</button>
+<button @onclick="deleteExpense">Delete Expense</button>
+
+@code{
+    private Expense? selectedExp;
+
+    private void addExpense()
+    {
+        NavMan.NavigateTo("/add");
+    }
+
+    private void SelectExpense(Expense exp)
+    {
+        selectedExp = exp;
+    }
+
+    private void updateExpense()
+    {
+        if(selectedExp != null){
+            NavMan.NavigateTo($"/update/{selectedExp.Id}");
+        }
+    }
+
+    private void deleteExpense()
+    {
+        if(selectedExp != null)
+        {
+            ExpServ.deleteExpense(selectedExp);
+        }
+    }
+}
+

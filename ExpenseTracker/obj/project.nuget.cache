@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FpHU9/6ripA=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Blazor\\Expense-Tracker\\ExpenseTracker\\ExpenseTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pati_har\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,261 @@
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\appsettings.Development.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\appsettings.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.staticwebassets.runtime.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.staticwebassets.endpoints.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.exe
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.deps.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.runtimeconfig.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.dll
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.pdb
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\EmbeddedAttribute.cs
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.AssemblyInfoInputs.cache
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.AssemblyInfo.cs
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.sourcelink.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\scopedcss\bundle\ExpenseTracker.styles.css
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\scopedcss\projectbundle\ExpenseTracker.bundle.scp.css
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\hqyi9d5c7x-{0}-khy4lop6wu-khy4lop6wu.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\lufwwbcll3-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\5lp31go4w1-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\kh03ijiz48-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\dgcfjjs3x6-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\cwah1ph1fm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\0s5u76zpqv-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\8fshoz8ui3-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\b22o32swwy-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\35gl8wb18v-{0}-ub07r2b239-ub07r2b239.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\5o9lz5dm33-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\gy62einnxb-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\70uc178bg9-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\tdilb2yj6o-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\0umph5vdcu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\drcw5r1sit-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\i0qzw3hsqw-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\mkdo09m0y7-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\zgajszupvc-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\38qqjgvn01-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\j6niog7pqi-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\yu9a794ok1-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\oi824uxz4f-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\xrqc7ee8cr-{0}-06098lyss8-06098lyss8.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\tip7benzjr-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\gyc58vlobm-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\ahioh0xonk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\bct02d7prx-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\ma8nmcra2w-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\01jxjv29wd-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\1u7uje4wnv-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\c4qtdz4dbv-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\k2bysfulsw-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\esnvc1c7ga-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\1p2qh79x0l-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\d7hb0prqyb-{0}-493y06b0oq-493y06b0oq.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\ckjvbst758-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\nzvgu6ct0e-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\euizpw4x3q-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\hy8cnuy2t4-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\rxrqneckxv-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\h5he6a9tf2-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\0uhxbe34bs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\i90wine27d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\g3f0zsjawb-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\jkvhydvxyq-{0}-abdmv1u4y3-abdmv1u4y3.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\kudlkrhbpr-{0}-qcnkhbt5lj-qcnkhbt5lj.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\j1obel94v3-{0}-12rnbzdyyc-12rnbzdyyc.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\uoe8od9up9-{0}-084zu8p36l-084zu8p36l.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\slelaqzjf9-{0}-084zu8p36l-084zu8p36l.gz
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\staticwebassets.build.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\staticwebassets.development.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\swae.build.ex.cache
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.dll
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\refint\ExpenseTracker.dll
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.pdb
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.genruntimeconfig.cache
+D:\Internship Learning\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ref\ExpenseTracker.dll
+C:\Projects\Expense-Tracker-main\ExpenseTracker\bin\Debug\net10.0\appsettings.Development.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\bin\Debug\net10.0\appsettings.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.staticwebassets.runtime.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.staticwebassets.endpoints.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.exe
+C:\Projects\Expense-Tracker-main\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.deps.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.runtimeconfig.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.dll
+C:\Projects\Expense-Tracker-main\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.pdb
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.AssemblyInfoInputs.cache
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.AssemblyInfo.cs
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\scopedcss\bundle\ExpenseTracker.styles.css
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\scopedcss\projectbundle\ExpenseTracker.bundle.scp.css
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\lufwwbcll3-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\5lp31go4w1-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\kh03ijiz48-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\dgcfjjs3x6-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\cwah1ph1fm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\0s5u76zpqv-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\8fshoz8ui3-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\b22o32swwy-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\35gl8wb18v-{0}-ub07r2b239-ub07r2b239.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\5o9lz5dm33-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\gy62einnxb-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\70uc178bg9-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\tdilb2yj6o-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\0umph5vdcu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\drcw5r1sit-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\i0qzw3hsqw-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\mkdo09m0y7-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\zgajszupvc-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\38qqjgvn01-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\j6niog7pqi-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\yu9a794ok1-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\oi824uxz4f-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\xrqc7ee8cr-{0}-06098lyss8-06098lyss8.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\tip7benzjr-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\gyc58vlobm-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\ahioh0xonk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\bct02d7prx-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\ma8nmcra2w-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\01jxjv29wd-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\1u7uje4wnv-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\c4qtdz4dbv-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\k2bysfulsw-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\esnvc1c7ga-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\1p2qh79x0l-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\d7hb0prqyb-{0}-493y06b0oq-493y06b0oq.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\ckjvbst758-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\nzvgu6ct0e-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\euizpw4x3q-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\hy8cnuy2t4-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\rxrqneckxv-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\h5he6a9tf2-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\0uhxbe34bs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\i90wine27d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\g3f0zsjawb-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\jkvhydvxyq-{0}-cyz5k529gx-cyz5k529gx.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\kudlkrhbpr-{0}-9hsif5t8mt-9hsif5t8mt.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\j1obel94v3-{0}-dwu72t6gfx-dwu72t6gfx.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\uoe8od9up9-{0}-084zu8p36l-084zu8p36l.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\slelaqzjf9-{0}-084zu8p36l-084zu8p36l.gz
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\staticwebassets.build.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\staticwebassets.development.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\swae.build.ex.cache
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.dll
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\refint\ExpenseTracker.dll
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.pdb
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.genruntimeconfig.cache
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ref\ExpenseTracker.dll
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\ExpenseT.567C5DF3.Up2Date
+C:\Projects\Expense-Tracker-main\ExpenseTracker\obj\Debug\net10.0\compressed\hqyi9d5c7x-{0}-6coc1d665o-6coc1d665o.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\appsettings.Development.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\appsettings.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.staticwebassets.runtime.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.staticwebassets.endpoints.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.exe
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.deps.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.runtimeconfig.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.dll
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.pdb
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.AssemblyInfoInputs.cache
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.AssemblyInfo.cs
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\scopedcss\bundle\ExpenseTracker.styles.css
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\scopedcss\projectbundle\ExpenseTracker.bundle.scp.css
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\hqyi9d5c7x-{0}-6coc1d665o-6coc1d665o.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\lufwwbcll3-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\5lp31go4w1-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\kh03ijiz48-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\dgcfjjs3x6-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\cwah1ph1fm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\0s5u76zpqv-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\8fshoz8ui3-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\b22o32swwy-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\35gl8wb18v-{0}-ub07r2b239-ub07r2b239.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\5o9lz5dm33-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\gy62einnxb-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\70uc178bg9-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\tdilb2yj6o-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\0umph5vdcu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\drcw5r1sit-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\i0qzw3hsqw-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\mkdo09m0y7-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\zgajszupvc-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\38qqjgvn01-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\j6niog7pqi-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\yu9a794ok1-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\oi824uxz4f-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\xrqc7ee8cr-{0}-06098lyss8-06098lyss8.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\tip7benzjr-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\gyc58vlobm-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\ahioh0xonk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\bct02d7prx-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\ma8nmcra2w-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\01jxjv29wd-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\1u7uje4wnv-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\c4qtdz4dbv-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\k2bysfulsw-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\esnvc1c7ga-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\1p2qh79x0l-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\d7hb0prqyb-{0}-493y06b0oq-493y06b0oq.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\ckjvbst758-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\nzvgu6ct0e-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\euizpw4x3q-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\hy8cnuy2t4-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\rxrqneckxv-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\h5he6a9tf2-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\0uhxbe34bs-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\i90wine27d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\g3f0zsjawb-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\jkvhydvxyq-{0}-cyz5k529gx-cyz5k529gx.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\kudlkrhbpr-{0}-9hsif5t8mt-9hsif5t8mt.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\j1obel94v3-{0}-dwu72t6gfx-dwu72t6gfx.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\uoe8od9up9-{0}-084zu8p36l-084zu8p36l.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\compressed\slelaqzjf9-{0}-084zu8p36l-084zu8p36l.gz
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\staticwebassets.build.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\staticwebassets.development.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\swae.build.ex.cache
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.dll
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\refint\ExpenseTracker.dll
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.pdb
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.genruntimeconfig.cache
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ref\ExpenseTracker.dll
+C:\Projects\Blazor\Expense-Tracker\ExpenseTracker\obj\Debug\net10.0\ExpenseT.567C5DF3.Up2Date

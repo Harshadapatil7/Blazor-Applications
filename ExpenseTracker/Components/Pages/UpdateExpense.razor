@@ -1,0 +1,64 @@
+﻿@page "/update/{Id:int}"
+
+@using ExpenseTracker.Models
+@using ExpenseTracker.Services
+@inject ExpenseService ExpServ
+@inject NavigationManager NavMan
+@rendermode InteractiveServer
+
+<h3>Update Expense</h3>
+
+<EditForm Model="expense" OnValidSubmit="HandleSubmit" FormName="UpdateExpense">
+    <label>Title</label>
+    <InputText @bind-Value="expense.Title"></InputText>
+    <br />
+
+    <label>Amount</label>
+    <InputNumber @bind-Value="expense.Amount"></InputNumber>
+    <br />
+
+    <label>Date</label>
+    <InputDate @bind-Value="expense.Date"></InputDate>
+    <br />
+
+    <label>Category</label>
+    <InputSelect @bind-Value="expense.Category">
+        <option value="">--Select Category--</option>
+        <option value="Food">Food</option>
+        <option value="Travel">Travel</option>
+        <option value="Shopping">Shopping</option>
+        <option value="Bills">Bills</option>
+        <option value="Other">Other</option>
+    </InputSelect>
+    <br />
+
+    <label>Description</label>
+    <InputTextArea @bind-Value="expense.Description"></InputTextArea>
+    <br />
+
+    <button type="submit">Save Changes</button>
+    <br />
+    
+</EditForm>
+
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    Expense? expense;
+
+    protected override void OnInitialized()
+    {
+        expense = ExpServ.GetExpenses().FirstOrDefault(e => e.Id == Id);
+    }
+
+    private void HandleSubmit()
+    {
+        if (expense is null)
+            return;
+
+        ExpServ.updateExpense(expense);
+        NavMan.NavigateTo("/");
+    }
+}
